@@ -40,13 +40,10 @@ Técnico em Desenvolvimento de Sistemas pelo **Senac**, com experiência em **No
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lemosjr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemosjr&layout=compact&langs_count=7&theme=radical"/>
-</div>
+
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lemosjr&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lemosjr&theme=dark" alt="GitHub Streak" />
 </div>
 
 ---
@@ -65,12 +62,12 @@ Técnico em Desenvolvimento de Sistemas pelo **Senac**, com experiência em **No
 ## 📈 Estatísticas Detalhadas
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemosjr&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemosjr&theme=dark" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lemosjr&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lemosjr&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lemosjr&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lemosjr&theme=dark" />
 </div>
 
 ---

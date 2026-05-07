@@ -26,10 +26,10 @@
 
 ## Sobre
 
-Técnico em Desenvolvimento de Sistemas pelo IFCE, com experiência em Node.js, React Native e automação de fluxos. Busco aplicar boas práticas de arquitetura de software e integração com IA em soluções de TI.
+Técnico em Desenvolvimento de Sistemas pelo Senac, com experiência em Node.js, React Native e automação de fluxos. Busco aplicar boas práticas de arquitetura de software e integração com IA em soluções de TI.
 
 - **Localização:** Fortaleza, Ceará, Brasil
-- **Formação:** Técnico em Desenvolvimento de Sistemas (IFCE) | Inglês (IMPARH)
+- **Formação:** Técnico em Desenvolvimento de Sistemas (Senac) | Inglês (IMPARH)
 
 ---
 
